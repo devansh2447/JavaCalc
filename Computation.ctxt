@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Computation
+comment0.text=\r\n\ Initializes\ arithmetic\ operations\ and\ provides\ methods\ for\ getting\ equations\ from\ string\ containing\ provided\ by\ user\r\n\r\n\ @Devansh\r\n\ @1.0\r\n
+comment1.params=compute
+comment1.target=double\ init(java.lang.String)
+comment2.params=compute\ position\ recurse
+comment2.target=java.lang.String\ getFirst(java.lang.String,\ int,\ int)
+comment3.params=compute\ position\ recurse
+comment3.target=java.lang.String\ getSecond(java.lang.String,\ int,\ int)
+comment4.params=compute\ check\ start
+comment4.target=int\ getPosition(java.lang.String,\ java.lang.String,\ int)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DM
+comment0.text=\r\n\ Handles\ divison\ and\ multiplication\r\n\r\n\ @Devansh\r\n\ @1.0\r\n
+comment1.params=compute\ start
+comment1.target=double\ compute(java.lang.String,\ int)
+comment2.params=first\ second
+comment2.target=double\ divide(java.lang.String,\ java.lang.String)
+comment3.params=first\ second
+comment3.target=double\ multiply(java.lang.String,\ java.lang.String)
+numComments=4

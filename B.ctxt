@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=B
+comment0.text=\r\n\ Solves\ brackets\ and\ sends\ end\ result\ for\ final\ Computation\r\n\r\n\ @Devansh\r\n\ @1.0\r\n
+comment1.params=compute\ start
+comment1.target=java.lang.String\ bracketPair(java.lang.String,\ int)
+comment2.params=compute\ check1\ check2\ recurse\ forReturn
+comment2.target=int\ bracketPairCount(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=compute\ recurse
+comment3.target=double\ solveBrackets(java.lang.String,\ int)
+numComments=4

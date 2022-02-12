@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NegativeHandler
+comment0.text=\r\n\ replaces\ minus\ operator\ with\ _\ sign\ to\ avoid\ conflict\ with\ negative\ numbers\r\n\r\n\ @Devansh\r\n\ @1.0\r\n
+comment1.params=compute\ iter
+comment1.target=java.lang.String\ replaceMinus(java.lang.String,\ int)
+comment2.params=check
+comment2.target=boolean\ isNumber(java.lang.String)
+numComments=3

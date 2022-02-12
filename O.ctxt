@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=O
+comment0.text=\r\n\ Handles\ exponents\ in\ equation\r\n\r\n\ @Devansh\r\n\ @1.0\r\n
+comment1.params=compute\ start
+comment1.target=double\ compute(java.lang.String,\ int)
+numComments=2

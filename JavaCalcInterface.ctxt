@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=JavaCalcInterface
+comment0.text=\r\n\ interface\ for\ calculator\r\n\r\n\ @Devansh\r\n\ @1.0\r\n
+comment1.params=print\ newLine
+comment1.target=void\ print(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ newLine()
+comment3.params=isFirstTime
+comment3.target=void\ mainInterface(boolean)
+comment4.params=filename
+comment4.target=void\ processFile(java.lang.String)
+numComments=5
